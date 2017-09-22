@@ -17,7 +17,8 @@ export class AppComponent {
   selectedAnimal: Animal = null;
 
   masterAnimalList: Animal[] = [
-    new Animal("Harris", "Penguin", 16, "Fish and shrimp", "Penguin Pen", 1, "♂", "Cold Water, Ice, and The Artic", "Jerry Giraffe")
+    new Animal("Harris 🐧", "Penguin", 16, "Fish and shrimp", "Penguin Pen", 1, "♂", "Cold Water, Ice, and The Artic", "Jerry Giraffe"),
+    new Animal("Amber 🦉", "Owl", 2, "Mice, Small Prey, and Bugs", "Owl Roost", 1, "♀", "Trees", "Daytime")
   ];
 
   editAnimal(animal) {

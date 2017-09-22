@@ -15,7 +15,7 @@ import { Animal } from './animal.model';
   </div>
   <div *ngFor="let currentAnimal of childAnimalList | ageFilter:filterAgeSender">
     <div class="well">
-      <font size="5"> {{currentAnimal.name}} </font>
+      <font size="5">{{currentAnimal.name}} </font>
         <li>Species: {{currentAnimal.species}}</li>
         <li>Age: {{currentAnimal.age}}</li>
         <li>Diet: {{currentAnimal.diet}}</li>
