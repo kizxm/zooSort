@@ -25,7 +25,7 @@ import { Animal } from './animal.model';
         <li>Likes: {{currentAnimal.likes}}</li>
         <li>Dislikes: {{currentAnimal.dislikes}}</li>
           <hr noshade>
-          <button (click) = "editButtonHasBeenClicked(currenAnimal)" type="btn">Edit</button>
+          <button (click) = "editButtonHasBeenClicked(currentAnimal)" type="btn">Edit</button>
     </div>
     </div>
   `
