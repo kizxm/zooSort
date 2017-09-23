@@ -5,12 +5,15 @@ import { Animal } from './animal.model';
 @Component({
   selector: 'animal-list',
   template: `
-  <div class="well">
   <br>
+  <div class="row">
+  <div class="col-sm-1 align-self-start">
+  <div class="well">
   <label> Enter the maximum age of animal you want displayed: </label>
   <input #maxAge>
     <button (click)="sortAnimals(maxAge.value)" class="btn btn-secondary">Search</button>
-    <br>
+    </div>
+    </div>
     <br>
   </div>
   <div *ngFor="let currentAnimal of childAnimalList | ageFilter:filterAgeSender">
