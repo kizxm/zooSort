@@ -1,22 +1,20 @@
 
-# Zoo Sort
+![zoo Sort](resources/img/zoosort.png)
+
+
 🦑━━━━━━━━━━━━━━━━━
+
 ![Alt text](resources/img/zoosortss.png)
 
 #### Zoo Sort, September 22, 2017
-🐘━━━━━━━━━━━━━━━━━
-
 #### By `Kira Loo`
 🐃━━━━━━━━━━━━━━━━━
 
 ## Description
 🐅━━━━━━━━━━━━━━━━━
 
-_Can't seem to keep track of all your pesky zoo animals running around? Yeah, me as well..._
-
-![Alt text](resources/img/zoosort.png)
-
-_Good thing `zoo Sort` is here to help you sort all those animals, and even let you add new ones to you up and coming zoo!_  
+_Can't seem to keep track of all your pesky zoo animals running around? Yeah, me as well...
+Good thing `zoo Sort` is here to help you sort all those animals, and even let you add new ones to you up and coming zoo!_  
 
 ## Setup/Installation Requirements
 🐬━━━━━━━━━━━━━━━━━
