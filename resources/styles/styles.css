@@ -1,3 +1,19 @@
 .well {
   width: 500px;
 }
+
+.btn-green {
+  color: #fff;
+  font-weight: bold;
+  background-color: #7c9b78;
+  border-color: #678563;
+}
+
+.highlight {
+  background-color: #f5ffbd;
+  width: inherit;
+}
+
+.page-header {
+  position: inherit;
+}

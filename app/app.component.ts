@@ -5,14 +5,15 @@ import { Animal } from './animal.model';
   selector: 'app-root',
   template: `
   <div class="container">
-  <h1><b>Zoo Sort for Animal Tracking</b></h1>
+    <h1><b>🐘 Zoo Sort for Animal Tracking 🐫 🦍 🦅 🐳 🐍 🐆 🐒 🦑 🐃 </b></h1>
+  <br>
   <br>
   <div class="row">
-  <div class="col-sm-7">
+  <div class="col-md-6">
   <animal-list [childAnimalList]="masterAnimalList" (clickSender)="editAnimal($event)"></animal-list>
   <edit-animal [childSelectedAnimal]="selectedAnimal" (doneButtonClickedSender)="finishedEditing()"></edit-animal>
   </div>
-  <div class="col-sm-5">
+  <div class="col-md-6">
   <new-animal (newAnimalSender)="addAnimal($event)"></new-animal>
   </div>
   </div>
