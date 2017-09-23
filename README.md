@@ -1,7 +1,6 @@
 
 ![zoo Sort](resources/img/zoosort.png)
 
-
 🦑━━━━━━━━━━━━━━━━━
 
 ![Alt text](resources/img/zoosortss.png)
@@ -32,7 +31,7 @@ You will need npm, TypeScript, Gulp and Bower installed on your device.
 ## Specifications
 🐧━━━━━━━━━━━━━━━━━
 
-| 🐣 Behavior      | 🐤 Example Input      | 🐥 Example Output       |
+| 🐣 Behavior      | 🐤 Example Input      | 🐓 Example Output       |
 | ------------- | ------------- | ------------- |
 |Access Site | No action required| All current animals are displayed.|
 | ------------- | ------------- | ------------- |
