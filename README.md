@@ -1,25 +1,25 @@
 
 # Zoo Sort
-▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+🦑━━━━━━━━━━━━━━━━━
 ![Alt text](resources/img/zoosortss.png)
 
 #### Zoo Sort, September 22, 2017
-🐘---------------
+🐘━━━━━━━━━━━━━━━━━
 
 #### By `Kira Loo`
-🐃---------------
+🐃━━━━━━━━━━━━━━━━━
 
 ## Description
-🐅---------------
+🐅━━━━━━━━━━━━━━━━━
 
 _Can't seem to keep track of all your pesky zoo animals running around? Yeah, me as well..._
 
-[Alt text](resources/img/zoosort.png)
+![Alt text](resources/img/zoosort.png)
 
 _Good thing `zoo Sort` is here to help you sort all those animals, and even let you add new ones to you up and coming zoo!_  
 
 ## Setup/Installation Requirements
-🐬---------------
+🐬━━━━━━━━━━━━━━━━━
 
 You will need npm, TypeScript, Gulp and Bower installed on your device.
 
@@ -32,7 +32,7 @@ You will need npm, TypeScript, Gulp and Bower installed on your device.
 ![Alt text](resources/img/zoosortss2.png)
 
 ## Specifications
-🐧---------------
+🐧━━━━━━━━━━━━━━━━━
 
 | 🐣 Behavior      | 🐤 Example Input      | 🐥 Example Output       |
 | ------------- | ------------- | ------------- |
@@ -45,10 +45,10 @@ You will need npm, TypeScript, Gulp and Bower installed on your device.
 | Done Editing | "Click Done" | "Editing menu disappears" |
 | ------------- | ------------- | ------------- |
 | Add a new animal zoo | "Enter in new animal details" | "New animal is added to the list of all animals and is now specifically searchable" |
-| ------------- | ------------- | ------------- |
+| ━━━━━━━━━━━━ | ━━━━━━━━━━━━ | ━━━━━━━━━━━━ |
 
 ## Technologies Used
-🐍---------------
+🐍━━━━━━━━━━━━━━━━━
 
 * _Atom_
 * _JavaScript_
@@ -60,5 +60,5 @@ You will need npm, TypeScript, Gulp and Bower installed on your device.
 * _Adobe Photoshop_
 
 ### License
-🦍---------------
+🦍━━━━━━━━━━━━━━━━━
 Copyright &copy; 2017 _Kira Loo_
