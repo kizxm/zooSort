@@ -14,7 +14,7 @@
 🐅━━━━━━━━━━━━━━━━━
 
 _Can't seem to keep track of all your pesky zoo animals running around? Yeah, me as well...
-Good thing `zoo Sort` is here to help you sort all those animals, and even let you add new ones to your up and coming zoo!_  
+Good thing `zoo Sort` is here to help you sort all those animals, and even let you add new ones to your up and coming zoo! View animals in the zoo with ease and edit them should you happen to make a mistake!_  
 
 ## Setup/Installation Requirements
 🐬━━━━━━━━━━━━━━━━━
@@ -33,15 +33,15 @@ You will need npm, TypeScript, Gulp and Bower installed on your device.
 🐧━━━━━━━━━━━━━━━━━
 
 | 🐣 Behavior      | 🐤 Example Input      | 🐥 Example Output       |
-|  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |
+| ------------- | ------------- | ------------- |
 |Access Site | No action required| All current animals are displayed.|
-|  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |
+| ------------- | ------------- | ------------- |
 |Enter the maximum age of animals you want displayed| "5" | All animals age 5 and under are returned.|
-|  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |
+| ------------- | ------------- | ------------- |
 |Edit an existing animal | "Edit Amber -> New name: 'Gabe' "| "Original Name: Amber -> Updated to Gabe"|
-|  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |
+| ------------- | ------------- | ------------- |
 | Done Editing | "Click Done" | "Editing menu disappears" |
-|  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |  ━━━━━━━━━━━━ |
+| ------------- | ------------- | ------------- |
 | Add a new animal zoo | "Enter in new animal details" | "New animal is added to the list of all animals and is now specifically searchable" |
 | ━━━━━━━━━━━━ | ━━━━━━━━━━━━ | ━━━━━━━━━━━━ |
 
